@@ -1,3 +1,47 @@
 body {
-    background: gray;
+
+    background: black;
+}
+
+h1 {
+    color: aqua;
+    background: pink;
+
+
+    /* raspolojeniya teksta */
+    /* text-align: left; */
+    text-align: center;
+    /* text-align: right; */
+
+
+    /* размер текста */
+    font-size: 60px;
+
+    /* Font qalinligi */
+    font-weight: 100;
+
+    /* font turi */
+    font-family: cursive;
+
+    /* prosta linya */
+    /* text-decoration: line-through; */
+    /* text-decoration: underline dashed;
+    text-decoration: underline wavy;*/
+   /* text-decoration: underline dotted; */
+    /* text-decoration: underline double; */
+    
+}   
+
+h2 {
+    color: orange;
+}
+
+p {
+    color: green;
+
+    /* text-decoration: underline; */
+    line-height: 25px;
+    width: 50%;
+    word-spacing: 25px;
+    letter-spacing: 15px;
 }
